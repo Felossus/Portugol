@@ -1,2 +1,2 @@
 # Portugol
- Aprendendo algoritmos e lógica de progamação com o Portugol
+ Aprendendo algoritmos e lógica de programação com o Portugol
